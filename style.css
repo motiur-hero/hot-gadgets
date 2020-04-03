@@ -10,7 +10,7 @@ margin-bottom: 35px;}
     cursor: pointer;
     padding: 9px 25px;
 }
-.bg-slide{background-image:linear-gradient(rgb(107, 104, 104) grey) url(images/slide-bg.png);
+.bg-slide{background-image: url(images/slide-bg.png);
 background-repeat: no-repeat;
 background-size: cover;
 }
