@@ -9,14 +9,10 @@ margin-bottom: 35px;}
     border: none;
     cursor: pointer;
     padding: 9px 25px;
+    margin: 15px 0px;
 }
-<<<<<<< HEAD
-.bg-slide{background:white;
-=======
-.bg-slide{background-image: url(images/slide-bg.png);
->>>>>>> 5aaa29a3145e8bc3b7cb30780d769d2fadecf165
-background-repeat: no-repeat;
-background-size: cover;
+.bg-slide{background:white
+
 }
 .mobile-phone h6{color: orangered;}
 .card{border: none;
@@ -63,4 +59,7 @@ padding-top: 60px;
 text-decoration: none;}
 .item-area{margin-top: 50px;
 }
-.item-area ul{list-style: none;}
+.item-area ul li{list-style: none;
+    text-align: left;
+}
+
