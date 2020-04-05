@@ -11,7 +11,7 @@ margin-bottom: 35px;}
     padding: 9px 25px;
     margin: 15px 0px;
 }
-.bg-slide{background:white
+.bg-slide{background:white;
 
 }
 .mobile-phone h6{color: orangered;}
@@ -60,6 +60,5 @@ text-decoration: none;}
 .item-area{margin-top: 50px;
 }
 .item-area ul li{list-style: none;
-    text-align: left;
 }
 
