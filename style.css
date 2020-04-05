@@ -10,7 +10,11 @@ margin-bottom: 35px;}
     cursor: pointer;
     padding: 9px 25px;
 }
+<<<<<<< HEAD
 .bg-slide{background:white;
+=======
+.bg-slide{background-image: url(images/slide-bg.png);
+>>>>>>> 5aaa29a3145e8bc3b7cb30780d769d2fadecf165
 background-repeat: no-repeat;
 background-size: cover;
 }
